@@ -1,8 +1,7 @@
-# React + Vite
+# React and Redux Practice
+This simple project includes a form and posting the form content with the help of states. 
+Constructing a UI dependent on current state and rendering them on the basis of changes occured in the states.
+Reaction based on emojis are used here. 
+While Async Thunks are not used since this is client side program, this feels best for understanding the basics of 
+react-redux. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
